@@ -8,5 +8,5 @@
 - ⚡ What I like: films, Formula 1, video games, anime, vtubers...  
 
 [![Qian Hang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ofdove&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofdove&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofdove&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ofdove&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
