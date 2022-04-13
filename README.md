@@ -7,4 +7,4 @@
 - 📫 How to reach me: ofdove528@outlook.com
 - ⚡ What I like: films, Formula 1, video games, anime, vtubers...  
 
-<div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
+[![Qian Hang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ofdove)](https://github.com/anuraghazra/github-readme-stats)
